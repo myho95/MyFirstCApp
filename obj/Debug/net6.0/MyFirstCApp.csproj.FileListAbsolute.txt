@@ -1,0 +1,15 @@
+/Users/myho/MyFirstCApp/bin/Debug/net6.0/MyFirstCApp
+/Users/myho/MyFirstCApp/bin/Debug/net6.0/MyFirstCApp.deps.json
+/Users/myho/MyFirstCApp/bin/Debug/net6.0/MyFirstCApp.runtimeconfig.json
+/Users/myho/MyFirstCApp/bin/Debug/net6.0/MyFirstCApp.dll
+/Users/myho/MyFirstCApp/bin/Debug/net6.0/MyFirstCApp.pdb
+/Users/myho/MyFirstCApp/obj/Debug/net6.0/MyFirstCApp.csproj.AssemblyReference.cache
+/Users/myho/MyFirstCApp/obj/Debug/net6.0/MyFirstCApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/myho/MyFirstCApp/obj/Debug/net6.0/MyFirstCApp.AssemblyInfoInputs.cache
+/Users/myho/MyFirstCApp/obj/Debug/net6.0/MyFirstCApp.AssemblyInfo.cs
+/Users/myho/MyFirstCApp/obj/Debug/net6.0/MyFirstCApp.csproj.CoreCompileInputs.cache
+/Users/myho/MyFirstCApp/obj/Debug/net6.0/MyFirstCApp.dll
+/Users/myho/MyFirstCApp/obj/Debug/net6.0/refint/MyFirstCApp.dll
+/Users/myho/MyFirstCApp/obj/Debug/net6.0/MyFirstCApp.pdb
+/Users/myho/MyFirstCApp/obj/Debug/net6.0/MyFirstCApp.genruntimeconfig.cache
+/Users/myho/MyFirstCApp/obj/Debug/net6.0/ref/MyFirstCApp.dll
